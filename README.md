@@ -42,4 +42,4 @@ In this project, I applied the following concepts:
     Train-test split
     Correlation between the features
     Linear Regression
-    MSE and R2_score Evaluation Metric
+    MSE and r2_score Evaluation Metric
